@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 new branch
 =======
 devil may cry
 >>>>>>> ouginak
+=======
+new branchp
+>>>>>>> new
